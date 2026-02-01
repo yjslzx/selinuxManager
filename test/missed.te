@@ -1,0 +1,2 @@
+allow core app:dir { getattr search };
+allow app app_file:dir { getattr search };

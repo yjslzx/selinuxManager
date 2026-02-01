@@ -1,0 +1,4 @@
+type core, domain, coredomain;
+type core_file, file_type;
+type app, domain;
+type app_file, file_type;

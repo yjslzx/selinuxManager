@@ -1,0 +1,3 @@
+allow core app_file:dir { getattr search };
+allow core app:file { open read };
+allow app app_file:file { open read };
